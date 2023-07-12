@@ -1,2 +1,2 @@
-# MobieWebTestingFramework
-Sandbox testing for selenium
+# WebTestingFramework
+Sandbox testing for selenium test automation.
